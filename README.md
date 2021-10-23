@@ -1,0 +1,1 @@
+Aplicação desenvolvida durante a NLW Heat da Rocketseat com ReactJS (web), React Native (mobile) e Node (back-end). 
